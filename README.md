@@ -4,3 +4,6 @@ En esta seccion se tratan algunos proyectos y ejercicios de Java persistence API
   * Hay que crear varias tablas y Secuencies en la base de datos para que funcione. 
   * Hay que cambiar la configuracion del archivo XML, tanto el usuario, como la contraseña y la conexion a localhost de pendiendo de 
     a donde quiera conectar su base datos. 
+
+
+<h1>Hello world</h1>
