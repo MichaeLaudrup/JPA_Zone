@@ -1,4 +1,4 @@
-# JPA_Zone
+<h1 style="color:red"> BIENVENIDO A LA ZONA DE Java Persistence API</h1>
 En esta seccion se tratan algunos proyectos y ejercicios de Java persistence API, cosas a destacar: 
   * Se usa oracle database como base de datos junto con Oracle SQL developer para gestionar las bases de datos
   * Hay que crear varias tablas y Secuencies en la base de datos para que funcione. 
@@ -6,4 +6,3 @@ En esta seccion se tratan algunos proyectos y ejercicios de Java persistence API
     a donde quiera conectar su base datos. 
 
 
-<h1>Hello world</h1>
