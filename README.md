@@ -5,4 +5,11 @@ En esta seccion se tratan algunos proyectos y ejercicios de Java persistence API
   * Hay que cambiar la configuracion del archivo XML, tanto el usuario, como la contraseña y la conexion a localhost de pendiendo de 
     a donde quiera conectar su base datos. 
 <hr>
+<ul>
+ <li> <h2>Proyecto 1: Flora</h2>
+  <p> Este proyecto consiste en la interaccion de una base de datos insertando arboles y arbustos a una localizacion determinada y comprobando el riesgo de conflicto entre diferentes especies de arbustos y arboles a nivel medio ambiental </p></li>
+
+ 
+ </ul>
+
 
