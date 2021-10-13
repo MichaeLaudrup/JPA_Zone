@@ -9,5 +9,6 @@ En esta seccion se tratan algunos proyectos y ejercicios de Java persistence API
 <ul>
  <li> Proyecto 1: Flora con JPA -> En este proyecto se maneja la creación de arbustos y arboles en una determinada región geografica y se registra en una entidad de la base de datos el conflicto y riesgo medioambiental existente entre diferentes tipos de arbutos y árboles. <strong>Este proyecto se realiza con Oracle data base, JDBC para oracle y JPA</strong></li>
  <li> Proyecto 2: CRUD con Hibernate -> Un proyecto muy básico en el que se maneja una entidad de tipo estudiante y se realizan operaciones CRUD sobre la base de datos que solo tiene una tabla estudiantes.<strong> En este proyecto se utiliza JDBC + MySQL + Hibernate todas las instrucciones estan dentro del proyecto.</strong> </li>
+
  </ul>
 
